@@ -6,7 +6,6 @@ monolithic architectures used in backend development.
 ## Tech stack
 
 - .NET (ASP.NET Core Web API)
-- MailKit (SMTP)
 
 ## Packages Installed
 
